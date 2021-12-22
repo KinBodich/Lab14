@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(585,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(584,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(587,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(586,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(591,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(590,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(593,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(592,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(603,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(602,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(605,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(613,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(612,89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(612,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(615,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(614,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(614,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(618,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(617,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(617,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(620,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(619,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Project1\MyForm.h(619,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\User\Desktop\ФЕІ-15\АтаП осінь2021\Виконане\14\Project1\Debug\Project1.exe
